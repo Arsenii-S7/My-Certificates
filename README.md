@@ -31,8 +31,8 @@
 *   **Основы статистики (Stepik / Bioinformatic Institute)**
     * *Анализ данных, проверка гипотез, t-критерий, корреляция и регрессия.*
     * 🏅 **Результат: 100% (С отличием)**
-    * 📂 [Открыть сертификат (RUS)](Basics_of_statistics_RUS.pdf)
-    * 📂 [Открыть сертификат (ENG)](Basics_of_statistics_ENG.pdf)
+    * 📂 [Сертификат (рус)](Basics_of_statistics_RUS.pdf)
+    * 📂 [Сертификат (eng)](Basics_of_statistics_ENG.pdf)
 
 
 ---
